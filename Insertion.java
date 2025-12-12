@@ -25,7 +25,7 @@ public class Insertion{
         curr.eow=true;
     }
     public static void main(String[] args) {
-        String words[]={"the","a","there","their","any","thee",};
+        String words[]={"the","a","there","their","any","thee"};
         for(int i=0;i<words.length;i++){
             Insert(words[i]);
         }
