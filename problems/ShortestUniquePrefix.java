@@ -1,5 +1,5 @@
 package problems;
-
+//asked in google and microsoft in interviews
 public class ShortestUniquePrefix {
     /*
 =========================================================
